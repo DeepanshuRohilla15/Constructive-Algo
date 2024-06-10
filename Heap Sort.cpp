@@ -23,3 +23,5 @@ void heapSort(int arr[], int n){
     heapify(arr, size, 1);
   }
 }
+
+TC : O(NlogN)
