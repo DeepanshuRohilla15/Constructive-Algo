@@ -29,3 +29,5 @@ class heap
       } 
     }
 }
+
+TC : O(logN)
